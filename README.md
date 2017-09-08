@@ -5,6 +5,10 @@ Automatically closes tickets that haven't been updated in a while.
 ## Preview of Ticket thread after plugin has run
 ![screenshot](https://user-images.githubusercontent.com/5077391/29966601-fe0eea4e-8f55-11e7-8b33-090b27d17460.png)
 
+## Upgrade notice
+
+If you've been using an older version, you'll need to copy your current Reply Template into a new Canned Response. Latest version only uses Canned Repsonses for it's Responses. 
+
 ## Caveats/Assumptions:
 
 - Assumes [osTicket](https://github.com/osTicket/) v1.10+ is installed. The API changes a bit between versions.. Open an issue to support older versions.
